@@ -1,0 +1,29 @@
+<View>
+    <!-- Object tag for time series data source -->
+    <TimeSeries name="ts" valueType="url" value="$csv" sep="," timeColumn="time_s" overviewChannels="roll_sensor1,pitch_sensor1,emg_rms_sensor1,roll_sensor2,pitch_sensor2,emg_rms_sensor2,roll_sensor3,pitch_sensor3,emg_rms_sensor3">
+
+        <Channel column="roll_sensor1" units="degree" strokeColor="#F54927" legend="roll_sensor1"/>
+    	<Channel column="pitch_sensor1" units="degree" strokeColor="#27F549" legend="pitch_sensor1"/>
+      	<Channel column="emg_rms_sensor1" units="mV" strokeColor="#273FF5" legend="emg_rms_sensor1"/>
+      
+      	<Channel column="roll_sensor2" units="degree" strokeColor="#F54927" legend="roll_sensor2"/>
+    	<Channel column="pitch_sensor2" units="degree" strokeColor="#27F549" legend="pitch_sensor2"/>
+      	<Channel column="emg_rms_sensor2" units="mV" strokeColor="#273FF5" legend="emg_rms_sensor2"/>
+      
+      	<Channel column="roll_sensor3" units="degree" strokeColor="#F54927" legend="roll_sensor3"/>
+    	<Channel column="pitch_sensor3" units="degree" strokeColor="#27F549" legend="pitch_sensor3"/>
+      	<Channel column="emg_rms_sensor3" units="mV" strokeColor="#273FF5" legend="emg_rms_sensor3"/>
+    </TimeSeries>
+
+    <!-- Control tag for region labels -->
+    <TimeSeriesLabels name="label" toName="ts">
+        
+      <Label value="double-support landing phase" background="#D3F261"/>
+      <Label value="Single-leg support phase" background="#389E0D"/>
+      <Label value="Dual-thrust phase" background="#096DD9"/>
+      <Label value="Swing phase" background="#ADC6FF"/>
+      
+  	</TimeSeriesLabels>
+        
+     
+</View>

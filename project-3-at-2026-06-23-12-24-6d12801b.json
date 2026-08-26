@@ -1,0 +1,3221 @@
+[
+{
+  "csv": "\/data\/upload\/3\/5ee113d3-session20260612_143920.csv",
+  "id": 1,
+  "label": [
+    {
+      "start": 67.554054,
+      "end": 68.175676,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 70.378378,
+      "end": 71.054054,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 64.972973,
+      "end": 65.621622,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 62.378378,
+      "end": 63.027027,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 59.905405,
+      "end": 60.567568,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 57.472973,
+      "end": 58.135135,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 73.162162,
+      "end": 73.810811,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 75.662162,
+      "end": 76.324324,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 55.067568,
+      "end": 55.716216,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 55.716216,
+      "end": 56.175676,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 58.135135,
+      "end": 58.756757,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 60.567568,
+      "end": 61.081081,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 63.027027,
+      "end": 63.540541,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 65.621622,
+      "end": 66.175676,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 68.175676,
+      "end": 68.932432,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 71.054054,
+      "end": 71.797297,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 73.810811,
+      "end": 74.364865,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 76.324324,
+      "end": 76.824324,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 56.175676,
+      "end": 57.121622,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 58.756757,
+      "end": 59.716216,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 61.081081,
+      "end": 62,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 63.540541,
+      "end": 64.513514,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 66.175676,
+      "end": 67.243243,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 68.932432,
+      "end": 70.067568,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 71.797297,
+      "end": 72.783784,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 74.364865,
+      "end": 75.324324,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 76.824324,
+      "end": 77.810811,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 57.121622,
+      "end": 57.472973,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 59.716216,
+      "end": 59.905405,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 62,
+      "end": 62.378378,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 64.513514,
+      "end": 64.972973,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 67.243243,
+      "end": 67.554054,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 70.067568,
+      "end": 70.378378,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 72.783784,
+      "end": 73.162162,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 75.324324,
+      "end": 75.662162,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 77.810811,
+      "end": 78.175676,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 52.108108,
+      "end": 52.581081,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 54.689189,
+      "end": 55.067568,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 49.891892,
+      "end": 50.22973,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 53.72973,
+      "end": 54.689189,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 51.364865,
+      "end": 52.108108,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 48.905405,
+      "end": 49.891892,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 53.22973,
+      "end": 53.72973,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 50.864865,
+      "end": 51.364865,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 48.378378,
+      "end": 48.905405,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 52.581081,
+      "end": 53.22973,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 50.22973,
+      "end": 50.864865,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 47.648649,
+      "end": 48.378378,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 47.243243,
+      "end": 47.648649,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 44.689189,
+      "end": 45.310811,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 42,
+      "end": 42.310811,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 39.527027,
+      "end": 39.878378,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 46.121622,
+      "end": 47.243243,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 43.378378,
+      "end": 44.689189,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 40.972973,
+      "end": 42,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 38.472973,
+      "end": 39.527027,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 45.756757,
+      "end": 46.121622,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 43.027027,
+      "end": 43.378378,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 40.527027,
+      "end": 40.972973,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 38.040541,
+      "end": 38.472973,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 42.310811,
+      "end": 43.027027,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 39.878378,
+      "end": 40.527027,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 37.364865,
+      "end": 38.040541,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 45.310811,
+      "end": 45.756757,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 37.054054,
+      "end": 37.364865,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 35.986486,
+      "end": 37.054054,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 35.513514,
+      "end": 35.986486,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 34.851351,
+      "end": 35.513514,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 34.513514,
+      "end": 34.851351,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 33.472973,
+      "end": 34.513514,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 33.013514,
+      "end": 33.472973,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 32.324324,
+      "end": 33.013514,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 32.013514,
+      "end": 32.324324,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 30.959459,
+      "end": 32.013514,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 30.527027,
+      "end": 30.959459,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 29.783784,
+      "end": 30.527027,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 29.527027,
+      "end": 29.783784,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 28.256757,
+      "end": 29.527027,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 27.810811,
+      "end": 28.256757,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 27.148649,
+      "end": 27.810811,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 26.797297,
+      "end": 27.148649,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 25.756757,
+      "end": 26.797297,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 25.324324,
+      "end": 25.756757,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 24.689189,
+      "end": 25.324324,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 24.310811,
+      "end": 24.689189,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 23.324324,
+      "end": 24.310811,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 22.864865,
+      "end": 23.324324,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 22.216216,
+      "end": 22.864865,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 21.837838,
+      "end": 22.216216,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 20.797297,
+      "end": 21.837838,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 20.283784,
+      "end": 20.797297,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 19.702703,
+      "end": 20.283784,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 19.351351,
+      "end": 19.702703,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 18.162162,
+      "end": 19.351351,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 17.621622,
+      "end": 18.162162,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 16.891892,
+      "end": 17.621622,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 16.648649,
+      "end": 16.891892,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 15.297297,
+      "end": 16.648649,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 14.905405,
+      "end": 15.297297,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 14.27027,
+      "end": 14.905405,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 14.040541,
+      "end": 14.27027,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 12.837838,
+      "end": 14.040541,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 12.324324,
+      "end": 12.837838,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 11.702703,
+      "end": 12.324324,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 11.364865,
+      "end": 11.702703,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 10.391892,
+      "end": 11.364865,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 9.932432,
+      "end": 10.391892,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 9.378378,
+      "end": 9.932432,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 78.175676,
+      "end": 78.864865,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 78.864865,
+      "end": 79.283784,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 79.283784,
+      "end": 80.351351,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 80.351351,
+      "end": 80.716216,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 80.716216,
+      "end": 81.432432,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 81.432432,
+      "end": 81.905405,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 81.905405,
+      "end": 82.824324,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 82.824324,
+      "end": 83.108108,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 83.108108,
+      "end": 83.783784,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 83.783784,
+      "end": 84.27027,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 84.27027,
+      "end": 85.175676,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 85.175676,
+      "end": 85.540541,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 85.540541,
+      "end": 86.256757,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 86.256757,
+      "end": 86.783784,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 86.783784,
+      "end": 87.716216,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 87.716216,
+      "end": 88.108108,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 88.108108,
+      "end": 88.743243,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 88.743243,
+      "end": 89.256757,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 89.256757,
+      "end": 90.283784,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 90.283784,
+      "end": 90.648649,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 90.648649,
+      "end": 91.310811,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 91.310811,
+      "end": 91.621622,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 91.621622,
+      "end": 93.081081,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 93.081081,
+      "end": 93.364865,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 93.364865,
+      "end": 94.027027,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 94.027027,
+      "end": 94.513514,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 94.513514,
+      "end": 95.445946,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 95.445946,
+      "end": 95.878378,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 95.878378,
+      "end": 96.554054,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 96.554054,
+      "end": 97.040541,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 97.040541,
+      "end": 98.054054,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 98.054054,
+      "end": 98.432432,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 98.432432,
+      "end": 99.121622,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 99.121622,
+      "end": 99.648649,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 99.648649,
+      "end": 100.486486,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 100.486486,
+      "end": 100.891892,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 100.891892,
+      "end": 101.554054,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 101.554054,
+      "end": 102.067568,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 102.067568,
+      "end": 102.986486,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 103,
+      "end": 103.364865,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 103.378378,
+      "end": 104.081081,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 104.081081,
+      "end": 104.527027,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 104.527027,
+      "end": 105.486486,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 105.486486,
+      "end": 105.851351,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 105.851351,
+      "end": 106.513514,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 106.513514,
+      "end": 106.986486,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 106.986486,
+      "end": 107.891892,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 107.891892,
+      "end": 108.27027,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 108.27027,
+      "end": 108.932432,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 108.932432,
+      "end": 109.432432,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 109.432432,
+      "end": 110.27027,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 110.27027,
+      "end": 110.648649,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 110.648649,
+      "end": 111.297297,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 111.297297,
+      "end": 111.824324,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 111.824324,
+      "end": 112.837838,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 112.837838,
+      "end": 113.22973,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 113.22973,
+      "end": 113.878378,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 113.878378,
+      "end": 114.364865,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 114.364865,
+      "end": 115.364865,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 115.364865,
+      "end": 115.675676,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 115.675676,
+      "end": 116.324324,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 116.324324,
+      "end": 116.878378,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 116.878378,
+      "end": 117.959459,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 117.959459,
+      "end": 118.337838,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 118.337838,
+      "end": 118.959459,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 118.959459,
+      "end": 119.513514,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 119.513514,
+      "end": 120.391892,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 120.391892,
+      "end": 120.77027,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 120.77027,
+      "end": 121.405405,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 121.405405,
+      "end": 121.891892,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 121.891892,
+      "end": 122.77027,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 122.77027,
+      "end": 123.175676,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 123.175676,
+      "end": 123.837838,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 123.837838,
+      "end": 124.189189,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 124.189189,
+      "end": 125.337838,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 125.337838,
+      "end": 125.675676,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 125.675676,
+      "end": 126.378378,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 126.378378,
+      "end": 126.851351,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 126.851351,
+      "end": 127.702703,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 127.702703,
+      "end": 128.148649,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 128.148649,
+      "end": 128.797297,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 128.797297,
+      "end": 129.283784,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 129.283784,
+      "end": 130.256757,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 130.256757,
+      "end": 130.608108,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 130.608108,
+      "end": 131.27027,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 131.27027,
+      "end": 131.837838,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 131.837838,
+      "end": 132.824324,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 132.824324,
+      "end": 133.243243,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 133.243243,
+      "end": 133.905405,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 133.905405,
+      "end": 134.378378,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 134.378378,
+      "end": 135.5,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 135.5,
+      "end": 135.824324,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 135.824324,
+      "end": 136.527027,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 136.527027,
+      "end": 137.027027,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 137.027027,
+      "end": 138.054054,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 138.054054,
+      "end": 138.445946,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 138.445946,
+      "end": 139.067568,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 139.067568,
+      "end": 139.527027,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 139.527027,
+      "end": 140.851351,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 140.851351,
+      "end": 141.175676,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 141.175676,
+      "end": 141.743243,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 141.743243,
+      "end": 142.121622,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 142.121622,
+      "end": 143.216216,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 143.216216,
+      "end": 143.608108,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 143.608108,
+      "end": 144.283784,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 144.283784,
+      "end": 144.662162,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 144.662162,
+      "end": 145.743243,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 145.743243,
+      "end": 146.135135,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 146.135135,
+      "end": 146.837838,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 146.837838,
+      "end": 147.351351,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 147.351351,
+      "end": 148.243243,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 148.243243,
+      "end": 148.621622,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 148.621622,
+      "end": 149.297297,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 149.297297,
+      "end": 149.824324,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 149.824324,
+      "end": 150.648649,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 150.648649,
+      "end": 151.027027,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 151.027027,
+      "end": 151.702703,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 151.702703,
+      "end": 152.189189,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 152.189189,
+      "end": 153.175676,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 153.175676,
+      "end": 153.445946,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 153.445946,
+      "end": 154.148649,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 154.148649,
+      "end": 154.608108,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 154.608108,
+      "end": 155.743243,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 155.743243,
+      "end": 155.959459,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 155.959459,
+      "end": 156.608108,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 156.608108,
+      "end": 157.067568,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 157.067568,
+      "end": 158.108108,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 158.108108,
+      "end": 158.472973,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 158.472973,
+      "end": 159.108108,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 159.108108,
+      "end": 159.472973,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 159.472973,
+      "end": 160.540541,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 160.540541,
+      "end": 160.932432,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 160.932432,
+      "end": 161.621622,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 161.621622,
+      "end": 162.108108,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 162.108108,
+      "end": 163.297297,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 163.297297,
+      "end": 163.472973,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 163.472973,
+      "end": 164.162162,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 164.162162,
+      "end": 164.567568,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 164.567568,
+      "end": 165.716216,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 165.716216,
+      "end": 166,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 166,
+      "end": 166.675676,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 166.675676,
+      "end": 167.148649,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 167.148649,
+      "end": 168.162162,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 168.162162,
+      "end": 168.472973,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 168.472973,
+      "end": 169.108108,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 169.108108,
+      "end": 169.581081,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 169.581081,
+      "end": 170.459459,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 170.459459,
+      "end": 170.864865,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 170.864865,
+      "end": 171.540541,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 171.540541,
+      "end": 171.972973,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 171.972973,
+      "end": 173.013514,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 173.013514,
+      "end": 173.364865,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 173.364865,
+      "end": 174.081081,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 174.081081,
+      "end": 174.554054,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 174.554054,
+      "end": 175.459459,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 175.459459,
+      "end": 175.851351,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 175.851351,
+      "end": 176.5,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 176.5,
+      "end": 177,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 177,
+      "end": 177.972973,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 177.972973,
+      "end": 178.297297,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 178.297297,
+      "end": 178.986486,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 178.986486,
+      "end": 179.513514,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 179.513514,
+      "end": 180.445946,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 180.445946,
+      "end": 180.824324,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 180.824324,
+      "end": 181.472973,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 181.472973,
+      "end": 182.013514,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 182.013514,
+      "end": 182.986486,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 182.986486,
+      "end": 183.337838,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 183.337838,
+      "end": 184.054054,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 184.054054,
+      "end": 184.581081,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 184.581081,
+      "end": 185.648649,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 185.648649,
+      "end": 186,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 186,
+      "end": 186.608108,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 186.608108,
+      "end": 187.013514,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 187.013514,
+      "end": 188.189189,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 188.189189,
+      "end": 188.635135,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 188.635135,
+      "end": 189.175676,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 189.175676,
+      "end": 189.743243,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 189.743243,
+      "end": 190.608108,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 190.608108,
+      "end": 191.027027,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 191.027027,
+      "end": 191.648649,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 191.648649,
+      "end": 191.945946,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 191.945946,
+      "end": 193.094595,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 193.094595,
+      "end": 193.445946,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 193.445946,
+      "end": 194.081081,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 194.081081,
+      "end": 194.608108,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 194.608108,
+      "end": 195.513514,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 195.513514,
+      "end": 195.824324,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 195.824324,
+      "end": 196.472973,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 196.472973,
+      "end": 197,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 197,
+      "end": 197.851351,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 197.851351,
+      "end": 198.216216,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 198.216216,
+      "end": 198.878378,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 198.878378,
+      "end": 199.378378,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 199.378378,
+      "end": 200.310811,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 200.310811,
+      "end": 200.648649,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 200.648649,
+      "end": 201.310811,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 201.310811,
+      "end": 201.837838,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 201.837838,
+      "end": 202.837838,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 202.837838,
+      "end": 203.148649,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 203.148649,
+      "end": 203.797297,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 203.797297,
+      "end": 204.283784,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 204.283784,
+      "end": 205.27027,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 205.27027,
+      "end": 205.635135,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 205.635135,
+      "end": 206.297297,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 206.297297,
+      "end": 206.797297,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 206.797297,
+      "end": 207.716216,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 207.716216,
+      "end": 208.067568,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 208.067568,
+      "end": 208.72973,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 208.72973,
+      "end": 209.22973,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 209.22973,
+      "end": 210.405405,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 210.405405,
+      "end": 210.635135,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 210.635135,
+      "end": 211.297297,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 211.297297,
+      "end": 211.810811,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 211.810811,
+      "end": 212.986486,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 212.986486,
+      "end": 213.216216,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 213.216216,
+      "end": 213.837838,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 213.837838,
+      "end": 214.297297,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 214.297297,
+      "end": 215.310811,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 215.310811,
+      "end": 215.608108,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 215.608108,
+      "end": 216.256757,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 216.256757,
+      "end": 216.662162,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 216.662162,
+      "end": 217.689189,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 217.689189,
+      "end": 218.054054,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 218.054054,
+      "end": 218.72973,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 218.72973,
+      "end": 219.148649,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 219.148649,
+      "end": 220.324324,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 220.324324,
+      "end": 220.5,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 220.5,
+      "end": 221.202703,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 221.202703,
+      "end": 221.716216,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 221.716216,
+      "end": 222.621622,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 222.621622,
+      "end": 222.972973,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 222.972973,
+      "end": 223.608108,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 223.608108,
+      "end": 224.094595,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 224.094595,
+      "end": 225.013514,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 225.013514,
+      "end": 225.310811,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 225.310811,
+      "end": 225.959459,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 225.959459,
+      "end": 226.418919,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 226.418919,
+      "end": 227.540541,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 227.540541,
+      "end": 227.756757,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 227.756757,
+      "end": 228.391892,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 228.391892,
+      "end": 228.851351,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 228.851351,
+      "end": 229.932432,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 229.932432,
+      "end": 230.175676,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 230.175676,
+      "end": 230.797297,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 230.797297,
+      "end": 231.027027,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 231.027027,
+      "end": 232.432432,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 232.432432,
+      "end": 232.756757,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 232.756757,
+      "end": 233.459459,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 233.459459,
+      "end": 233.851351,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 233.851351,
+      "end": 235.081081,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 235.081081,
+      "end": 235.297297,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 235.297297,
+      "end": 235.959459,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 235.959459,
+      "end": 236.432432,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 236.432432,
+      "end": 237.486486,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 237.486486,
+      "end": 237.702703,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 237.702703,
+      "end": 238.324324,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 238.324324,
+      "end": 238.837838,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 238.837838,
+      "end": 239.797297,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 239.797297,
+      "end": 240.013514,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 240.013514,
+      "end": 240.621622,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 240.621622,
+      "end": 241.121622,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 241.121622,
+      "end": 242.054054,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 242.054054,
+      "end": 242.27027,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 242.27027,
+      "end": 242.932432,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 242.932432,
+      "end": 243.432432,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 243.432432,
+      "end": 244.351351,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 244.351351,
+      "end": 244.635135,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 244.635135,
+      "end": 245.297297,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 245.297297,
+      "end": 245.77027,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 245.77027,
+      "end": 246.797297,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 246.797297,
+      "end": 247.081081,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 247.081081,
+      "end": 247.743243,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 247.743243,
+      "end": 248.243243,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 248.243243,
+      "end": 249.202703,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 249.202703,
+      "end": 249.5,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 249.5,
+      "end": 250.121622,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 250.121622,
+      "end": 250.621622,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 250.621622,
+      "end": 251.716216,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 251.716216,
+      "end": 252.040541,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 252.040541,
+      "end": 252.635135,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 252.635135,
+      "end": 253.121622,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 253.121622,
+      "end": 254.162162,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 254.162162,
+      "end": 254.459459,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 254.459459,
+      "end": 255.081081,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 255.081081,
+      "end": 255.459459,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 255.459459,
+      "end": 256.797297,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 256.797297,
+      "end": 257.040541,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 257.040541,
+      "end": 257.675676,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    },
+    {
+      "start": 257.675676,
+      "end": 258.135135,
+      "instant": false,
+      "timeserieslabels": [
+        "double-support landing phase"
+      ]
+    },
+    {
+      "start": 258.135135,
+      "end": 259.216216,
+      "instant": false,
+      "timeserieslabels": [
+        "Single-leg support phase"
+      ]
+    },
+    {
+      "start": 259.216216,
+      "end": 259.432432,
+      "instant": false,
+      "timeserieslabels": [
+        "Dual-thrust phase"
+      ]
+    },
+    {
+      "start": 259.432432,
+      "end": 259.932432,
+      "instant": false,
+      "timeserieslabels": [
+        "Swing phase"
+      ]
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 2,
+  "created_at": "2026-06-17T10:19:02.137876Z",
+  "updated_at": "2026-06-23T12:24:09.656026Z",
+  "lead_time": 9945.712
+}
+]
